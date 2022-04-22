@@ -2,3 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/index</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/store</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/reviews</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/gallery-All</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/gallery-Exterior-</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/gallery-Interior-</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/service-Kitchen-Remodeling</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/service-Bathroom-Remodeling</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/service-Deck-&-Patio-Installation</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/service-Flooring</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/service-Tiling</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/service-Garages</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/service-Additions</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/service-Land-Clearing-&-Grading</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://buckwoodbuildersmi.com/service-Structure-Alterations</loc>
+        <lastmod>2022-04-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
